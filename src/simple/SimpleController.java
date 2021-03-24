@@ -99,7 +99,7 @@ public class SimpleController implements Initializable {
                 }
             }
         }
-        output.appendText("\nThere are "+Total1+" primes <= to the number "+f);
+        output.appendText("\nThere are "+Total1+" primes <= to the number "+s);
     }
 
     @FXML
